@@ -16,3 +16,4 @@ Features to add:
 - Shrink the solder boards, use two smaller ones instead of on big board
 - Mount a USB port for charging & programing
 - use Pi Pico W for a Web interface.
+- add LCD to display message being sent
